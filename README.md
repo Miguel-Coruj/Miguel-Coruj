@@ -16,6 +16,9 @@
 - [Site](https://miguellopesbraido.herokuapp.com/)
 - [GitHub](https://github.com/Miguel-Coruj/Meu-Site)
 
+</td>
+<td>
+
 ![Logo Site miguel](https://raw.githubusercontent.com/Miguel-Coruj/Miguel-Coruj/master/img/LogoBibli.svg)
 - [GitHub Back-End](https://github.com/Miguel-Coruj/Dione-BackEnd)
 - [GitHub Web](https://github.com/Miguel-Coruj/Dione-Web)
