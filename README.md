@@ -1,4 +1,4 @@
-![Developer Full Stack](./img/fundo.svg)
+![Developer Full Stack](https://raw.githubusercontent.com/Miguel-Coruj/Miguel-Coruj/master/img/fundo.svg)
 
 <table boder="0" style="border: 0">
 <tr  style="text-align: center; border: 0">
