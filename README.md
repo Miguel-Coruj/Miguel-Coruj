@@ -1,7 +1,7 @@
 ![Developer Full Stack](https://raw.githubusercontent.com/Miguel-Coruj/Miguel-Coruj/master/img/fundo.svg)
 
 <table boder="0" style="border: 0; width: 100%;">
-<tr  style="text-align: center; border: 0">
+<tr  style="text-align: center; border: 0; width: 100%;">
 <td  style="text-align: center; border: 0">
 
 - 📑️ &nbsp; ReactJs, React nNative e NodeJs
