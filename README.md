@@ -22,5 +22,11 @@
 - [GitHub Web](https://github.com/Miguel-Coruj/Dione-Web)
 
 </td>
+<td>
+  
+  [![Conta do NPM](https://img.shields.io/badge/-@miguel__coruj-red?logo=npm&style=flat-square)](https://www.npmjs.com/~miguel_coruj)
+  [![Conta do Instagram](https://img.shields.io/badge/-@miguel__coruj-a069db?logo=instagram&logoColor=551dcf&style=flat-square)](https://www.instagram.com/miguel_coruj)
+  
+</td>
 </tr>
 </table>
