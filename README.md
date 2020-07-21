@@ -11,15 +11,15 @@
 <td>
 
 ![Logo Site miguel](https://raw.githubusercontent.com/Miguel-Coruj/Miguel-Coruj/master/img/LogoMiguel.svg)
-- [Site](https://miguellopesbraido.herokuapp.com/)
-- [GitHub](https://github.com/Miguel-Coruj/Meu-Site)
+- [![Site](https://img.shields.io/badge/-Site-blue?logo=Google-Chrome&style=flat&logoColor=white)](https://miguellopesbraido.herokuapp.com/)
+- [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat&logoColor=white)](https://github.com/Miguel-Coruj/Meu-Site)
 
 </td>
 <td>
 
 ![Logo Site miguel](https://raw.githubusercontent.com/Miguel-Coruj/Miguel-Coruj/master/img/LogoBibli.svg)
-- [GitHub Back-End](https://github.com/Miguel-Coruj/Dione-BackEnd)
-- [GitHub Web](https://github.com/Miguel-Coruj/Dione-Web)
+- [![GitHub](https://img.shields.io/badge/-Back--End-black?logo=github&style=flat&logoColor=white)](https://github.com/Miguel-Coruj/Dione-BackEnd)
+- [![GitHub](https://img.shields.io/badge/-Web-black?logo=github&style=flat&logoColor=white)](https://github.com/Miguel-Coruj/Dione-Web)
 
 </td>
 <td>
