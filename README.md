@@ -12,7 +12,7 @@
   
   ### Estudando
   - Electron <img src="https://simpleicons.org/icons/electron.svg" height="20" widht="20">
-  [- Java <img src="https://simpleicons.org/icons/java.svg" height="20" widht="20">](https://github.com/Miguel-Coruj/Aprendendo-Java)
+  - [Java <img src="https://simpleicons.org/icons/java.svg" height="20" widht="20">](https://github.com/Miguel-Coruj/Aprendendo-Java)
 </td  style="text-align: center; border: 0">
 <td style="width: fit-content">
   
