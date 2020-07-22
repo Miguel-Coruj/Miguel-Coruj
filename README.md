@@ -8,6 +8,12 @@
 - ✅ Recomendo: &nbsp; [Rocketseat](https://rocketseat.com.br/) e o [Curso em Vídeo](https://www.cursoemvideo.com/)
 
 </td  style="text-align: center; border: 0">
+<td  style="text-align: center; border: 0">
+  
+  ### Estudando
+  - Electron <img src="https://simpleicons.org/icons/electron.svg" height="20" widht="20">
+  - Java <img src="https://simpleicons.org/icons/java.svg" height="20" widht="20">
+</td  style="text-align: center; border: 0">
 <td style="width: fit-content">
   
  <br/>[![Conta do NPM](https://img.shields.io/badge/-@miguel__coruj-red?logo=npm&style=flat-square)](https://www.npmjs.com/~miguel_coruj)
