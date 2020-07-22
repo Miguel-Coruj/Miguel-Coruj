@@ -15,18 +15,21 @@
 - [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat&logoColor=white)](https://github.com/Miguel-Coruj/Meu-Site)
 
 </td>
-<td>
-
+<td style="width: fit-content">
+  
+ <br/>[![Conta do NPM](https://img.shields.io/badge/-@miguel__coruj-red?logo=npm&style=flat-square)](https://www.npmjs.com/~miguel_coruj)
+ <br/>[![Conta do Instagram](https://img.shields.io/badge/-@miguel__coruj-9c93ed?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/miguel_coruj)
+  
+</td>
+</tr>
+<tr>
+<td colspan="3">
+  
+### Em Desenvolvendo
 ![Logo Site miguel](https://raw.githubusercontent.com/Miguel-Coruj/Miguel-Coruj/master/img/LogoBibli.svg)
 - [![GitHub](https://img.shields.io/badge/-Back--End-black?logo=github&style=flat&logoColor=white)](https://github.com/Miguel-Coruj/Dione-BackEnd)
 - [![GitHub](https://img.shields.io/badge/-Web-black?logo=github&style=flat&logoColor=white)](https://github.com/Miguel-Coruj/Dione-Web)
 
-</td>
-<td>
-  
-  [![Conta do NPM](https://img.shields.io/badge/-@miguel__coruj-red?logo=npm&style=flat-square)](https://www.npmjs.com/~miguel_coruj)
-  [![Conta do Instagram](https://img.shields.io/badge/-@miguel__coruj-a069db?logo=instagram&logoColor=551dcf&style=flat-square)](https://www.instagram.com/miguel_coruj)
-  
 </td>
 </tr>
 </table>
