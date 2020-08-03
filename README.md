@@ -38,6 +38,12 @@
 - [![GitHub](https://img.shields.io/badge/-Back--End-black?logo=github&style=flat&logoColor=white)](https://github.com/Miguel-Coruj/Dione-BackEnd)
 - [![GitHub](https://img.shields.io/badge/-Web-black?logo=github&style=flat&logoColor=white)](https://github.com/Miguel-Coruj/Dione-Web)
 </td>
+<td>
+
+![nlw](https://raw.githubusercontent.com/Miguel-Coruj/Miguel-Coruj/master/img/LogoBibli.svg)
+- ![Em Desenvolvimento](https://img.shields.io/static/v1?label=&message=Desenvolvimento&color=success)
+- [![GitHub](https://img.shields.io/badge/-Back--End-black?logo=github&style=flat&logoColor=white)](https://github.com/Miguel-Coruj/NLW-2)
+</td>
 </tr>
 <br/>
 </table>
