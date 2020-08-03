@@ -40,9 +40,9 @@
 </td>
 <td>
 
-![nlw](https://raw.githubusercontent.com/Miguel-Coruj/Miguel-Coruj/master/img/LogoBibli.svg)
+![nlw](https://raw.githubusercontent.com/Miguel-Coruj/Miguel-Coruj/master/img/logoProffy.png)
 - ![Em Desenvolvimento](https://img.shields.io/static/v1?label=&message=Desenvolvimento&color=success)
-- [![GitHub](https://img.shields.io/badge/-Back--End-black?logo=github&style=flat&logoColor=white)](https://github.com/Miguel-Coruj/NLW-2)
+- [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat&logoColor=white)](https://github.com/Miguel-Coruj/NLW-2)
 </td>
 </tr>
 <br/>
