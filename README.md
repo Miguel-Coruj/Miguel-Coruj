@@ -4,7 +4,6 @@
 
 - 📑️ Tecnologias que uso: &nbsp; ReactJs, React nNative e NodeJs
 - 🖥️ Apps: &nbsp; VS Code, Insomnia e Figma
-- 📚️ Cursos que Fiz: &nbsp; [Semana Oministack, NLW](https://nextlevelweek.com/) e [Curso de HTML5](https://www.cursoemvideo.com/course/html5/)
 - ✅ Recomendo: &nbsp; [Rocketseat](https://rocketseat.com.br/) e o [Curso em Vídeo](https://www.cursoemvideo.com/)
 
 </td  style="text-align: center; border: 0">
