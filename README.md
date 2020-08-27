@@ -26,13 +26,6 @@
 <tr>
 <td>
 
-![Logo Site miguel](https://raw.githubusercontent.com/Miguel-Coruj/Miguel-Coruj/master/img/LogoMiguel.svg)
-- [![Site](https://img.shields.io/badge/-Site-blue?logo=Google-Chrome&style=flat&logoColor=white)](https://miguellopesbraido.herokuapp.com/)
-- [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat&logoColor=white)](https://github.com/Miguel-Coruj/Meu-Site)
-
-</td>
-<td>
-
 ![Logo Dione](https://raw.githubusercontent.com/Miguel-Coruj/Miguel-Coruj/master/img/LogoBibli.svg)
 - ![Em Desenvolvimento](https://img.shields.io/static/v1?label=&message=Desenvolvimento&color=success)
 - [![GitHub](https://img.shields.io/badge/-Back--End-black?logo=github&style=flat&logoColor=white)](https://github.com/Miguel-Coruj/Dione-BackEnd)
