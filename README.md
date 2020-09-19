@@ -22,8 +22,8 @@
 </tr>
 </table>
 <table>
-<tr>
-<td>
+<tr display="block" align="center">
+<td display="block" align="center">
 
 ![Logo Dione](https://raw.githubusercontent.com/Miguel-Coruj/Miguel-Coruj/master/img/LogoBibli.svg)
 - ![Em Desenvolvimento](https://img.shields.io/static/v1?label=&message=Desenvolvimento&color=success)
