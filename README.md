@@ -1,5 +1,5 @@
 <table boder="0" align='center'>
-<tr  style="text-align: center; border: 0; width: 100%;">
+<tr  display="block" align="center">
 <td colspan="3"  display="block" align="center">
 
 - 📑️ Tecnologias que uso: &nbsp; ReactJs, React nNative e NodeJs
@@ -21,7 +21,7 @@
 </td>
 </tr>
 </table>
-<table>
+<table align="center">
 <tr display="block" align="center">
 <td display="block" align="center">
 
