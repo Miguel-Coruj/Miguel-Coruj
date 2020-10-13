@@ -25,10 +25,9 @@
 <tr display="block" align="center">
 <td display="block" align="center">
 
-![Logo Dione](https://raw.githubusercontent.com/Miguel-Coruj/Miguel-Coruj/master/img/LogoBibli.svg)
+![Logo Dione](https://raw.githubusercontent.com/Miguel-Coruj/Miguel-Coruj/master/img/logoHappy.svg)
 - ![Em Desenvolvimento](https://img.shields.io/static/v1?label=&message=Desenvolvimento&color=success)
-- [![GitHub](https://img.shields.io/badge/-Back--End-black?logo=github&style=flat&logoColor=white)](https://github.com/Miguel-Coruj/Dione-BackEnd)
-- [![GitHub](https://img.shields.io/badge/-Web-black?logo=github&style=flat&logoColor=white)](https://github.com/Miguel-Coruj/Dione-Web)
+- [![GitHub](https://img.shields.io/badge/-NLW3-black?logo=github&style=flat&logoColor=white)](https://github.com/Miguel-Coruj/Dione-BackEnd)
 </td>
 </tr>
 <br/>
