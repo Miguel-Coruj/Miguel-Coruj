@@ -2,7 +2,7 @@
 <tr  display="block" align="center">
 <td colspan="3"  display="block" align="center">
 
-- 📑️ Tecnologias que uso: &nbsp; ReactJs, React nNative e NodeJs
+- 📑️ Tecnologias que uso: &nbsp; ReactJs, React Native e NodeJs
 - 🖥️ Apps: &nbsp; VS Code, Insomnia e Figma
 - ✅ Recomendo: &nbsp; [Rocketseat](https://rocketseat.com.br/) e o [Curso em Vídeo](https://www.cursoemvideo.com/)
 
