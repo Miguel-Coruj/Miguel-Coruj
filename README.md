@@ -32,6 +32,7 @@
 </tr>
 <br/>
 </table>
+<img alt="erro" src="https://www.codewars.com/users/Miguel%20Coruj/badges/large" />
 <p align='center'>
     <img 
          alt="GitHub Stats Card" 
