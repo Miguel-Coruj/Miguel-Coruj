@@ -10,7 +10,7 @@
 <td  display="block" align="center">
   
   ### Estudando
-  - Electron <img src="https://simpleicons.org/icons/electron.svg" height="20" widht="20">
+  - [Socket <img src="https://simpleicons.org/icons/socket-dot-io.svg" height="20" widht="20">](https://github.com/Miguel-Coruj/Chat-in-real-time)
   - [Java <img src="https://simpleicons.org/icons/java.svg" height="20" widht="20">](https://github.com/Miguel-Coruj/Aprendendo-Java)
 </td>
 <td display="block" align="center">
