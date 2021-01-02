@@ -10,8 +10,8 @@
 <td  display="block" align="center">
   
   ### Estudando
-  - [Socket <img src="https://simpleicons.org/icons/socket-dot-io.svg" height="20" widht="20">](https://github.com/Miguel-Coruj/Chat-in-real-time)
-  - [Java <img src="https://simpleicons.org/icons/java.svg" height="20" widht="20">](https://github.com/Miguel-Coruj/Aprendendo-Java)
+  - [Socket.io <img src="https://simpleicons.org/icons/socket-dot-io.svg" height="20" widht="20">](https://github.com/Miguel-Coruj/Chat-in-real-time)
+  - [discord.Js <img src="https://simpleicons.org/icons/discord.svg" height="20" widht="20">](https://discord.com/developers/docs/intro)
 </td>
 <td display="block" align="center">
   
