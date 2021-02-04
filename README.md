@@ -1,28 +1,20 @@
-<table boder="0" align='center'>
-<tr  display="block" align="center">
-<td colspan="3"  display="block" align="center">
 
 - 📑️ Tecnologias que uso: &nbsp; ReactJs, React Native e NodeJs
 - 🖥️ Apps: &nbsp; VS Code, Insomnia e Figma
 - ✅ Já fiz curso lá: &nbsp; [Rocketseat](https://rocketseat.com.br/) e o [Curso em Vídeo](https://www.cursoemvideo.com/)
 
-</td>
-<td  display="block" align="center">
+  <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/miguel-coruj">
+    <img width="25" src="https://simpleicons.org/icons/linkedin.svg" alt="linkedin"/>
+  </a>
+
+  <a target="_blank" rel="noreferrer" href="https://www.twitter.com/miguel-coruj">
+    <img width="25" src="https://simpleicons.org/icons/twitter.svg" alt="twitter"/>
+  </a>
   
-  ### Estudando
-  - [Socket.io <img src="https://simpleicons.org/icons/socket-dot-io.svg" height="20" widht="20">](https://github.com/Miguel-Coruj/Chat-in-real-time)
-  - [discord.Js <img src="https://simpleicons.org/icons/discord.svg" height="20" widht="20">](https://discord.com/developers/docs/intro)
-</td>
-<td display="block" align="center">
-  
- <br/>[![Conta do NPM](https://img.shields.io/badge/-@miguel__coruj-red?logo=npm&style=flat-square)](https://www.npmjs.com/~miguel_coruj)
- <br/>[![Conta do Instagram](https://img.shields.io/badge/-@miguel__coruj-9c93ed?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/miguel_coruj)
-  
-</td>
-</tr>
-</table>
-<br/>
-</table>
+  <a target="_blank" rel="noreferrer" href="https://www.instagram.com/miguel_coruj">
+    <img width="25" src="https://simpleicons.org/icons/instagram.svg" alt="instagram"/>
+  </a>
+
 <p align='center'>
   <img alt="erro" src="https://www.codewars.com/users/Miguel%20Coruj/badges/large" /><br/>
     <img 
