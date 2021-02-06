@@ -14,16 +14,26 @@
   <a target="_blank" rel="noreferrer" href="https://www.instagram.com/miguel_coruj">
     <img width="25" src="https://simpleicons.org/icons/instagram.svg" alt="instagram"/>
   </a>
-  <p>SemanaOmnistac</p>
+  
+<table>
+  <tr>
+    <td>  
+  <a href="https://rocketseat.com.br/"><img src="/img/OmniStack.png" alt="SemanaOmnistack"/></a>
   
   - <a href="https://github.com/Miguel-Coruj/BuscaDev-Web">Busca Dev Web</a> 
   - <a href="https://github.com/Miguel-Coruj/BuscaDev-Mobile">Busca Dev Mobile</a> 
   - <a href="https://github.com/Miguel-Coruj/BuscaDev-Backend">Busca Dev Backend</a> 
+  </td>
+  <td>
+  <a href="https://rocketseat.com.br/"><img src="/img/NLW.png" alt="next level week"/></a>
   
   <p>Next Level Week</p>
   
   - <a href="https://github.com/Miguel-Coruj/NLW-2">NLW 2</a> 
   - <a href="https://github.com/Miguel-Coruj/NLW3">NLW 3</a> 
+</td>
+</tr>
+ </table>
   
 
 <p align='center'>
