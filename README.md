@@ -16,7 +16,7 @@
   </a>
 
 <p align='center'>
-  <img alt="erro" src="https://www.codewars.com/users/Miguel%20Coruj/badges/large" /><br/>
+  <br/>
     <img 
          alt="GitHub Stats Card" 
          display="block" 
