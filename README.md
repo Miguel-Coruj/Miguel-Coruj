@@ -27,8 +27,6 @@
   <td>
   <a href="https://rocketseat.com.br/"><img src="/img/NLW.png" width="100" alt="next level week"/></a>
   
-  <p>Next Level Week</p>
-  
   - <a href="https://github.com/Miguel-Coruj/NLW-2">NLW 2</a> 
   - <a href="https://github.com/Miguel-Coruj/NLW3">NLW 3</a> 
 </td>
