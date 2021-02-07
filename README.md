@@ -18,19 +18,24 @@
 <table>
   <tr>
     <td>  
-  <a href="https://rocketseat.com.br/"><img src="/img/OmniStack.png" alt="SemanaOmnistack"/></a>
+  <a href="https://rocketseat.com.br/"><img src="/img/OmniStack.png" width="100" alt="SemanaOmnistack"/></a>
   
   - <a href="https://github.com/Miguel-Coruj/BuscaDev-Web">Busca Dev Web</a> 
   - <a href="https://github.com/Miguel-Coruj/BuscaDev-Mobile">Busca Dev Mobile</a> 
   - <a href="https://github.com/Miguel-Coruj/BuscaDev-Backend">Busca Dev Backend</a> 
   </td>
   <td>
-  <a href="https://rocketseat.com.br/"><img src="/img/NLW.png" alt="next level week"/></a>
+  <a href="https://rocketseat.com.br/"><img src="/img/NLW.png" width="100" alt="next level week"/></a>
   
   <p>Next Level Week</p>
   
   - <a href="https://github.com/Miguel-Coruj/NLW-2">NLW 2</a> 
   - <a href="https://github.com/Miguel-Coruj/NLW3">NLW 3</a> 
+</td>
+<td>
+  <h2>O que eu estou aprendendo:</h2>
+  
+  - <a href="https://github.com/Miguel-Coruj/Aprendendo-Angular.js"> <img src="https://simpleicons.org/icons/angularjs.svg" width="25" align='center' alt="angular.js"/> Angular.js</a>
 </td>
 </tr>
  </table>
