@@ -36,22 +36,4 @@
   - <a href="https://github.com/Miguel-Coruj/Aprendendo-Angular.js"> <img src="https://simpleicons.org/icons/angularjs.svg" width="25" align='center' alt="angular.js"/> Angular.js</a>
 </td>
 </tr>
- </table>
-  
-
-<p align='center'>
-  <br/>
-    <img 
-         alt="GitHub Stats Card" 
-         display="block" 
-         align="center" 
-         width="426px" 
-         src="https://github-readme-stats.vercel.app/api?username=miguel-coruj&show_icons=true&theme=dracula"
-    />
-    <img 
-         alt="Compact Language Card Layout" 
-         display="block" 
-         align="center" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-coruj&layout=compact&show_icons=true&theme=dracula"
-    />
-</p>
+</table>
