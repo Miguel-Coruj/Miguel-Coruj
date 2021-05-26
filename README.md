@@ -9,3 +9,5 @@
 <code><img height="30" src="/img/react.svg"></code>
 <code><img height="30" src="/img/angular.svg"></code>
 <code><img height="30" src="/img/elixir.svg"></code>
+
+<img src="/img/code.gif"/>
